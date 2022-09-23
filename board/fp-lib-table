@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "t80")(type "KiCad")(uri "/home/paul/git/t80/t80.pretty")(options "")(descr ""))
+)
