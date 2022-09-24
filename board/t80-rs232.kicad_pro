@@ -210,7 +210,9 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "pin_to_pin|596900|1803400|f9a758d4-614f-4d7f-b21a-3269e604e558|4772c096-ee9b-462a-886b-8022bae05f38"
+    ],
     "meta": {
       "version": 0
     },
@@ -419,13 +421,13 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "template.kicad_pro",
+    "filename": "t80-rs232.kicad_pro",
     "version": 1
   },
   "net_settings": {
     "classes": [
       {
-        "bus_width": 12.0,
+        "bus_width": 12,
         "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
@@ -439,24 +441,7 @@
         "track_width": 0.25,
         "via_diameter": 0.8,
         "via_drill": 0.4,
-        "wire_width": 6.0
-      },
-      {
-        "bus_width": 12.0,
-        "clearance": 0.2,
-        "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "PWR_LINE",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 2.0,
-        "via_diameter": 2.0,
-        "via_drill": 1.0,
-        "wire_width": 6.0
+        "wire_width": 6
       }
     ],
     "meta": {
@@ -466,8 +451,8 @@
     "netclass_assignments": null,
     "netclass_patterns": [
       {
-        "netclass": "PWR_LINE",
-        "pattern": "/PWR_LINE_*"
+        "netclass": "Default",
+        "pattern": ""
       }
     ]
   },
