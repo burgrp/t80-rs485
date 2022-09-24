@@ -2162,7 +2162,7 @@
       (reference "U1") (unit 1) (value "ATSAMD09C13A-SS") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/9aab4de3-aee6-4757-8d52-a0ac93a0e3cf"
-      (reference "U2") (unit 1) (value "MAX232") (footprint "Package_SO:SO-16_5.3x10.2mm_P1.27mm")
+      (reference "U2") (unit 1) (value "MAX232") (footprint "Package_SO:SOIC-16W_5.3x10.2mm_P1.27mm")
     )
     (path "/80ccb752-bbd1-402f-89fe-2d0ea6b1c0bc"
       (reference "X1") (unit 1) (value "SWD") (footprint "Drake:SWD")
