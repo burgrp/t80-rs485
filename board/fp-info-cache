@@ -1,4 +1,4 @@
-20585013304231730
+20602557544076275
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -7449,7 +7449,7 @@ neutrik xlr aa
 4
 Connector_Audio
 Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal
-A Series, Chassis connector H female (A series layout), horizontal PCB mount, https://www.neutrik.com/en/product/nc4mafh-ph
+A Series, Chassis connector H female (A series layout), mates with Phoenix MSTB2,5/3-ST, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mafh-ph
 neutrik xlr a
 0
 3
@@ -7484,7 +7484,7 @@ neutrik xlr a
 4
 Connector_Audio
 Jack_XLR_Neutrik_NC3MAMH-PH_Horizontal
-A Series, Chassis connector Phoenix H male (A series layout), horizontal PCB mount, https://www.neutrik.com/en/product/nc4mamh-ph
+A Series, Chassis connector Phoenix H male (A series layout), mates with Phoenix MSTB 2,5/3-ST, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mamh-ph
 neutrik xlr a
 0
 3
@@ -48468,6 +48468,13 @@ switching power supply
 4
 4
 Converter_ACDC
+Converter_ACDC_Murata_BAC05SxxDC_THT
+ACDC-Converter, Murata, 5W, ClassB, https://www.murata.com/products/productdata/8809982558238/KAC-BAC05.pdf
+switching power supply tht
+0
+5
+5
+Converter_ACDC
 Converter_ACDC_RECOM_RAC01-xxSGB_THT
 https://www.recom-power.com/pdf/Powerline-AC-DC/RAC01-GB.pdf
 recom power ac dc rac01xxgb rac01-05sgb rac01-12sgb
@@ -52357,8 +52364,8 @@ RQG 5V-0.6A-vertical
 
 
 0
+12
 4
-1
 Drake
 RT314_Relay
 
