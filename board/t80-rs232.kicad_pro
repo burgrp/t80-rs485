@@ -402,7 +402,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "t80-rs232.kicad_pro",
+    "filename": "t80-rs485.kicad_pro",
     "version": 1
   },
   "net_settings": {

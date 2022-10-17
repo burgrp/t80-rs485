@@ -67,7 +67,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "t80-rs232.kicad_prl",
+    "filename": "t80-rs485.kicad_prl",
     "version": 3
   },
   "project": {
